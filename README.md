@@ -80,7 +80,7 @@ The results of the Development Suitability Index are looked at citywide and at t
 
 <div align="center">
 ![](methodology_documentation_files/figure-html/unnamed-chunk-1-1.png)<!-- -->
-</civ>
+</div>
   
 Below, the development suitability index is mapped for the Spruce Hill neighborhood. The index is divided into five ‘opportunity categories’ that visualize the data as quintiles. Category `5` are properties with the greatest likelihood of being developed (an index of 80 or greater).
 
@@ -137,6 +137,7 @@ The Community Preference Survey is how we engage residents online about their pr
 
 First, we needed to understand the breakdown of properties in our neighborhood. Using the properties dataset, we found the percent of properties by land use type, the age of properties, and the number of stories. Below is the breakdown across in the Spruce Hill neighborhood:
 
+<center>
 <table class="table table-condensed" style="margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
@@ -178,7 +179,8 @@ First, we needed to understand the breakdown of properties in our neighborhood. 
   </tr>
 </tbody>
 </table>
-
+</center>
+  
 We categorized `year_built` into four categories - Pre 1900, 1900 - 1919, 1920 - 1950, and Post 1950 - to understand the age of properties in the neighborhood.
 
 <table class="table table-condensed" style="margin-left: auto; margin-right: auto;">
