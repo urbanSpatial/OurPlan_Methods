@@ -1,10 +1,9 @@
 
 <br>
-<center>
-<img src="/images/2021_OurPlan Methods github top image.png" width=70% height=70%></img>
-<h4>June 2021</h4>
 
-</center>
+<img src="/images/2021_OurPlan Methods github top image.png" width=70% height=70% align = "center"></img>
+<h4 align = "center">June 2021</h4>
+
 <br>
 
 ## Introduction 
