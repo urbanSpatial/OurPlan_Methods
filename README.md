@@ -1,10 +1,6 @@
-<<<<<<< Updated upstream
-<img src="/images/2021_OurPlan Methods github top image.png" width=70% height=70% align="center"></img>
-=======
 <center>
 <img src="./images/2021_OurPlan Methods github top image.png" width=70% height=70%></img>
 </center>
->>>>>>> Stashed changes
 <h4 align="center">June 2021</h4>
 
 <br>
@@ -92,11 +88,7 @@ The map shows that properties most likely to be developed according to the index
 On Chestnut Street, between 46th and Farragut Street, `opa_account_num` 882147100 corresponds to a gas station.
 
 <center>
-<<<<<<< Updated upstream
-<img src="./images/882147100_methods_devIndex.png" width=70% height=70% text-align="center"></img>
-=======
 <img src="./images/882147100_methods_devIndex.png" width=70% height=70% align="center"></img>
->>>>>>> Stashed changes
 </center>
 <br>
 
