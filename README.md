@@ -78,15 +78,13 @@ The scaled results from both groups are combined into the Development Suitabilit
 
 The results of the Development Suitability Index are looked at citywide and at the property level below. The following maps plot the index by RCO and by neighborhood and both indicate that areas already developed (i.e. Center City) are less likely to have unmet potential compared to other areas on the edges of Philadelphia.
 
-<div align="center">
+<center>
 ![](methodology_documentation_files/figure-html/unnamed-chunk-1-1.png)<!-- -->
-</div>
-  
+</center>
+
 Below, the development suitability index is mapped for the Spruce Hill neighborhood. The index is divided into five ‘opportunity categories’ that visualize the data as quintiles. Category `5` are properties with the greatest likelihood of being developed (an index of 80 or greater).
 
-<div align="center">
 ![](methodology_documentation_files/figure-html/unnamed-chunk-2-1.png)<!-- -->
-</div>
 
 The map shows that properties most likely to be developed according to the index are located near commercial corridors, such as Market or Chestnut Streets in the north of Spruce Hill. Let’s take a look at some of these properties.
 
