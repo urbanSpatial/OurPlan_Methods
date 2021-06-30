@@ -1,7 +1,7 @@
 
 <br>
 
-<img src="/images/2021_OurPlan Methods github top image.png" width=70% height=70% align = "center"></img>
+<img src="/images/2021_OurPlan Methods github top image.png" width=70% height=70% text-align="center"></img>
 <h4 align = "center">June 2021</h4>
 
 <br>
@@ -88,7 +88,7 @@ The map shows that properties most likely to be developed according to the index
 On Chestnut Street, between 46th and Farragut Street, `opa_account_num` 882147100 corresponds to a gas station. 
 
 <center>
-![](./images/882147100_methods_devIndex.png){width=70% height=70%}
+<img src="./images/882147100_methods_devIndex.png" width=70% height=70% text-align="center"></img>
 </center>
 
 <br>
@@ -99,14 +99,14 @@ Also along the commercial corridors, at the corner of 43rd Street and Ludlow Str
 
 <br>
 <center>
-![](./images/272113205_methods_devIndex.png){width=50% height=50%}
+<img src="./images/272113205_methods_devIndex.png" width=50% height=50% text-align="center"></img>
 </center>
 
 <br>
 The index picks up on development potential in other areas of the neighborhood as well. There is a group of residential properties near 46th and Baltimore Ave that are assigned high development suitability index scores. For example, `opa_account_num` 461045200 is a two-story row home. 
 
 <center>
-![](./images/461045200_methods_devIndex.png){width=30% height=30%}
+<img src = "./images/461045200_methods_devIndex.png" width=30% height=30% text-align="center"></img>
 </center>
 
 <br>
@@ -115,7 +115,7 @@ The zoning code dictates a maximum height of 38 feet for this property - or up t
 The index also reflects properties where development is less likely without a variance or change to the zoning code. At the corner of 44th Street and Osage Ave is a three-story row home (`opa_account_num` 272127700). 
 
 <center>
-![](./images/272127700_methods_devIndex.png){width=40% height=40%}
+<img src="./images/272127700_methods_devIndex.png" width=40% height=40% text-align="center"></img>
 </center>
 
 <br>
