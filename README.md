@@ -88,9 +88,9 @@ The map shows that properties most likely to be developed according to the index
 
 On Chestnut Street, between 46th and Farragut Street, `opa_account_num` 882147100 corresponds to a gas station.
 
-<center>
+<div align="center">
 <img src="./images/882147100_methods_devIndex.png" width=70% height=70% align="center"></img>
-</center>
+</div>
 <br>
 
 The properties dataset says this is a one story property and the zoning code limits this property with a maximum height of 38 feet. Ultimately this property is given a Development Suitability Index score of 92, which correctly reflects the high potential for development at this location.
@@ -98,9 +98,9 @@ The properties dataset says this is a one story property and the zoning code lim
 Also along the commercial corridors, at the corner of 43rd Street and Ludlow Street, `opa_account_num` 272113205 is a three-story row home with a side yard. However, this parcel is zoned as CMX-4 which has a maximum FAR of 500. The current FAR calculation is 0.42 based on a livable area of 2,250 square feet and parcel area of approximately 5,375 square feet. This property is given a Development Suitability Index score of 78. It is important to remember that this index is calculated citywide. The potential FAR in other parts of the city - namely Center City - does influence the scores for buildings like this in Spruce Hill.
 
 <br>
-<center>
+<div align="center">
 <img src="./images/272113205_methods_devIndex.png" width=50% height=50% text-align="center"></img>
-</center>
+</div>
 
 <br>
 The index picks up on development potential in other areas of the neighborhood as well. There is a group of residential properties near 46th and Baltimore Ave that are assigned high development suitability index scores. For example, `opa_account_num` 461045200 is a two-story row home.
@@ -114,9 +114,9 @@ The zoning code dictates a maximum height of 38 feet for this property - or up t
 
 The index also reflects properties where development is less likely without a variance or change to the zoning code. At the corner of 44th Street and Osage Ave is a three-story row home (`opa_account_num` 272127700).
 
-<center>
+<div align="center">
 <img src="./images/272127700_methods_devIndex.png" width=40% height=40% text-align="center"></img>
-</center>
+</div>
 
 <br>
 The nearest neighbor calculation imputed three stories for this property as the number of stories, putting the current height at 30 feet. The zoning code limits this property to a maximum height of 38 feet. Most likely a developer would not be attracted to this property without a change to the zoning code as the return on investment as is, would not be high.
