@@ -1,23 +1,7 @@
----
-output: 
-  html_document:
-    toc: true
-    toc_depth: 5
-    toc_float: true
-    keep_md: true
----
-
-
-
-
-
-
-
-
 
 <br>
 <center>
-![](./images/2021_OurPlan Methods github top image.png){width=70% height=70%}
+<img src="/images/2021_OurPlan Methods github top image.png" width=70% height=70%></img>
 <h4>June 2021</h4>
 
 </center>
